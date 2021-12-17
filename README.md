@@ -1,1 +1,5 @@
-# fr0zen_exorcism
+# fr0zen_exercism
+
+Little repository for Exercism practice
+
+#
